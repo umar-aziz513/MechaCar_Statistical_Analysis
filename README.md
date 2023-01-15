@@ -19,10 +19,17 @@ In total, the manufacturing data does meet the design specification since the ov
 
 Using the sample size of 150, the p-value turned out to be 0.06 which greater than the significance level 0.05%.  Therefore, null hypothesis cannot be rejected so the sample mean and the population mean are statistically similar.
 
+![You Text](https://github.com/umar-aziz513/MechaCar_Statistical_Analysis/blob/main/Sample%20test1.png)
+
 
 After doing the Sample testing of Manufacturing Lot1, the p-value turned out to be 1 which much greater than the significance level 0.05%.  Therefore, null hypothesis cannot be rejected so the sample mean of Manufacturing Lot 1 and the mean of the entire population are statistically similar.
 
+![You Text](https://github.com/umar-aziz513/MechaCar_Statistical_Analysis/blob/main/MFlot1.png)
 
 After doing the Sample testing of Manufacturing Lot2, the p-value turned out to be 0.607 which much greater than the significance level 0.05%.  Therefore, null hypothesis cannot be rejected so the sample mean of Manufacturing Lot 2 and the mean of the entire population are statistically similar.
 
+![You Text](https://github.com/umar-aziz513/MechaCar_Statistical_Analysis/blob/main/MFLOT2.png)
+
 After doing the Sample testing of Manufacturing Lot 3, the p-value turned out to be 0.041 which much greater than the significance level 0.05%.  Therefore, null hypothesis cannot be rejected so the sample mean of Manufacturing Lot 3 and the mean of the entire population are statistically similar.
+
+![You Text](https://github.com/umar-aziz513/MechaCar_Statistical_Analysis/blob/main/MFLOT3.png)
